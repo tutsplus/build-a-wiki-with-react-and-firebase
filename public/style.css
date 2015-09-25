@@ -1,0 +1,20 @@
+.section {
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #fff;
+    margin-bottom: 1em;
+}
+
+.section :last-child {
+    margin-bottom: 0;
+}
+
+.editable:not(.editing):hover {
+    border-color: #d1d1d1;
+}
+
+.locked {
+    border-color: #ececec;
+    background: #d1d1d1;
+}
+
