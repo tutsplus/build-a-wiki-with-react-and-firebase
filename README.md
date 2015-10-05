@@ -1,4 +1,4 @@
-# [Build a Wiki With React and Firebase][published url]
+# [Building a Wiki With React and Firebase][published url]
 ## Instructor: [Andrew Burgess][instructor url]
 
 
@@ -13,9 +13,9 @@ This repository contains the source code for the completed course project - a mu
 
 ------
 
-These are source files for the Tuts+ course: [Build a Wiki With React and Firebase][published url]
+These are source files for the Tuts+ course: [Building a Wiki With React and Firebase][published url]
 
 Available on [Tuts+](https://tutsplus.com). Teaching skills to millions worldwide.
 
-[published url]: https://code.tutsplus.com/courses/build-a-wiki-with-react-and-firebase
+[published url]: https://code.tutsplus.com/courses/building-a-wiki-with-react-and-firebase
 [instructor url]: https://tutsplus.com/authors/andrew-burgess
